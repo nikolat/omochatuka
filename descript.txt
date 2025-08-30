@@ -1,0 +1,10 @@
+charset,UTF-8
+type,plugin
+name,omochatuka
+id,719d0e10-8588-11f0-b558-0800200c9a66
+filename,kagari.dll
+craftman,Don
+craftmanurl,https://nikolat.github.io/
+homeurl,https://raw.githubusercontent.com/nikolat/omochatuka/main/
+secondchangeinterval,1
+readme.charset,UTF-8
